@@ -1,0 +1,360 @@
+{
+    "estatus":"ok",
+    "mensaje":"La solicitud se registro de forma correcta",
+    "datos":{
+        "idSolicitudAudiencia":"1481911",
+        "cveCatAudiencia":"146",
+        "cveJuzgadoDesahoga":"762",
+        "cveJuzgado":"762",
+        "cveConsignacion":"3",
+        "cveEtapaProcesal":"1",
+        "idReferencia":"351434",
+        "fechaRegistro":"2020-03-02 13:26:57",
+        "fechaActualizacion":"2020-03-02 13:26:57",
+        "fechaEnvio":null,
+        "cveTipoCarpeta":"1",
+        "numero":"15",
+        "anio":"2020",
+        "activo":"S",
+        "carpetaInv":null,
+        "nuc":"TLA/FST/FST/104/000033/20/02",
+        "cveUsuario":"2470",
+        "cveAdscripcionSolicita":null,
+        "mismoJuzgador":"N",
+        "tribunal":"N",
+        "cveEstatusSolicitud":"1",
+        "observaciones":"SIN OBSERVCAIONES",
+        "numImputados":"1",
+        "numDelitos":"1",
+        "numOfendidos":"1",
+        "cveNaturaleza":"1",
+        "cveTipoAudiencia":"2",
+        "tipoUsuarioSolicita":null,
+        "imputados":[
+            {
+                "idImputadoSolicitud":"2214589",
+                "idSolicitudAudiencia":"1481911",
+                "activo":"S",
+                "fechaRegistro":"2020-03-02 13:26:57",
+                "fechaActualizacion":"2020-03-02 13:26:57",
+                "detenido":"S",
+                "nombre":"HSDGJHFGDSJHLFGBA",
+                "paterno":"QQWYUTQWUYTQW",
+                "materno":"YTEQUYTEQUY",
+                "rfc":null,
+                "curp":null,
+                "cveTipoDetencion":"2",
+                "cveGenero":"4",
+                "alias":"",
+                "fechaDeclaracion":"2020-02-12",
+                "cvePaisNacimiento":"119",
+                "cveEstadoNacimiento":"15",
+                "cveMunicipioNacimiento":"64",
+                "fechaNacimiento":null,
+                "edad":"222",
+                "cveTipoPersona":"1",
+                "CveTipoReligion":"3",
+                "nombreMoral":"",
+                "cveNivelInstruccion":"6",
+                "cveEstadoCivil":"3",
+                "cveEspanol":"1",
+                "cveAlfabetismo":"4",
+                "cveDialectoIndigena":"2",
+                "cveTipoFamiliaLinguistica":"2",
+                "cveOcupacion":"10",
+                "cveInterprete":"3",
+                "cveEstadoPsicofisico":"3",
+                "fechaImputacion":null,
+                "fechaControlDet":null,
+                "fecTerminoCons":null,
+                "fecCierreInv":null,
+                "estadoNacimiento":"",
+                "municipioNacimiento":"",
+                "relacionMoral":"N",
+                "personaMoral":null,
+                "cveCereso":"7",
+                "cveEtapaProcesal":"1",
+                "cveTipoReincidencia":"5",
+                "ingresoMensual":"3223.000",
+                "cveGrupoEdnico":"62",
+                "TieneSobreseimiento":"N",
+                "FechaSobreseimiento":null,
+                "idImputadoCarpeta":"557673",
+                "domicilios":[
+                    {
+                        "idDomicilioImputadoSolicitud":"1490212",
+                        "idImputadoSolicitud":"2214589",
+                        "DomicilioProcesal":"N",
+                        "cvePais":"119",
+                        "cveEstado":"30",
+                        "cveMunicipio":"2046",
+                        "direccion":"CALLE",
+                        "colonia":"CAÃ±ADA AZUL",
+                        "numInterior":"4",
+                        "numExterior":"2",
+                        "cp":"94968",
+                        "latitud":null,
+                        "longitud":null,
+                        "recidenciaHabitual":"S",
+                        "estado":"30",
+                        "municipio":"2101",
+                        "cveConvivencia":"9",
+                        "cveTipoDeVivienda":"5",
+                        "reservado":"N",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57"
+                    }
+                ],
+                "telefonos":[
+
+                ],
+                "defensores":[
+                    {
+                        "idDefensorImputadoSolicitud":"1688972",
+                        "idImputadoSolicitud":"2214589",
+                        "cveTipoDefensor":"1",
+                        "nombre":"DASFFDSDSSDSD SADSDSADSA SADSASAD",
+                        "telefono":null,
+                        "celular":null,
+                        "email":null,
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57"
+                    }
+                ],
+                "drogas":[
+                    {
+                        "idImputadoDroga":"31260",
+                        "idImputadoSolicitud":"2214589",
+                        "cveDroga":"7",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57"
+                    }
+                ],
+                "tutores":[
+
+                ],
+                "nacionalidades":[
+                    {
+                        "idNacionalidadImputadoSolicitud":"1646311",
+                        "cvePais":"158",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57",
+                        "idImputadoSolicitud":"2214589"
+                    }
+                ]
+            }
+        ],
+        "ofendidos":[
+            {
+                "idOfendidoSolicitud":"1761093",
+                "idSolicitudAudiencia":"1481911",
+                "activo":"S",
+                "fechaRegistro":"2020-03-02 13:26:57",
+                "fechaActualizacion":"2020-03-02 13:26:57",
+                "nombre":"CXCXCXCXCX",
+                "paterno":"CXCXCXCX",
+                "materno":"CXXCXCXC",
+                "rfc":null,
+                "curp":null,
+                "fechaNacimiento":null,
+                "cveOcupacion":"15",
+                "cveTipoPersona":"1",
+                "desTipoPersona":"PERSONA FISICA",
+                "cveGenero":"4",
+                "desGenero":"NO APLICA",
+                "cveTipoParte":"4",
+                "cveTipoReligion":"3",
+                "edad":"111",
+                "cvePaisNacimiento":"119",
+                "cveEstadoNacimiento":"9",
+                "estadoNacimiento":"",
+                "cveMunicipioNacimiento":"392",
+                "municipioNacimiento":"",
+                "cveEstadoCivil":"1",
+                "cveAlfabetismo":"4",
+                "cveNivelInstruccion":"8",
+                "cveEspanol":"1",
+                "cveDialectoIndigena":"2",
+                "cveTipoFamiliaLinguistica":"12",
+                "cveInterprete":"4",
+                "cveOrdenProteccion":"2",
+                "cveEstadoPsicofisico":"1",
+                "cveNacionalidad":null,
+                "nombreMoral":"",
+                "cveVictimaDeLaDelincuenciaOrganizada":"3",
+                "cveVictimaDeViolenciaDeGenero":"3",
+                "cveVictimaDeTrata":"1",
+                "cveVictimaDeAcoso":"2",
+                "desaparecido":"S",
+                "numHijos":"33",
+                "embarazada":"N",
+                "cveGrupoEdnico":"62",
+                "nombreCompleto":null,
+                "domicilios":[
+                    {
+                        "idDomicilioOfendidoSolicitud":"1567493",
+                        "idOfendidoSolicitud":"1761093",
+                        "DomicilioProcesal":"N",
+                        "cvePais":"119",
+                        "desPais":"MEXICO",
+                        "cveEstado":"2",
+                        "cveMunicipio":"136",
+                        "direccion":"CALLE",
+                        "colonia":"ALTA LUZ",
+                        "numInterior":"2",
+                        "numExterior":"3",
+                        "cp":"94968",
+                        "latitud":"",
+                        "longitud":"",
+                        "recidenciaHabitual":"S",
+                        "estado":"BAJA CALIFORNIA",
+                        "municipio":"MEXICALI",
+                        "cveConvivencia":"9",
+                        "cveTipoDeVivienda":"2",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57"
+                    }
+                ],
+                "telefonos":[
+
+                ],
+                "defensores":[
+                    {
+                        "idDefensorOfendidoSolicitud":"1743981",
+                        "idOfendidoSolicitud":"1761093",
+                        "cveTipoAsesor":"7",
+                        "desTipoDefensor":"ASESOR JURIDICO - PUBLICO",
+                        "nombre":"FAGAGASF QWQWQWQW QWWQWQ",
+                        "telefono":"",
+                        "celular":"",
+                        "email":"",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57"
+                    }
+                ],
+                "tutores":[
+
+                ],
+                "nacionalidades":[
+                    {
+                        "idNacionalidadOfendidoSolicitud":"1735234",
+                        "cvePais":"158",
+                        "desPais":"ARGENTINA",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57",
+                        "idOfendidoSolicitud":"1761093"
+                    }
+                ]
+            }
+        ],
+        "delitos":[
+            {
+                "idDelitoSolicitud":"4053098",
+                "cveDelito":"78",
+                "activo":"S",
+                "fechaRegistro":"2020-03-02 13:26:57",
+                "fechaActualizacion":"2020-03-02 13:26:57",
+                "idSolicitudAudiencia":"1481911",
+                "desDelito":null,
+                "clasificacionJuridica":null
+            }
+        ],
+        "impofedel":[
+            {
+                "idImpOfeDelSolicitud":"3645853",
+                "idSolicitudAudiencia":"1481911",
+                "idImputadoSolicitud":"2214589",
+                "idOfendidoSolicitud":"1761093",
+                "idDelitoSolicitud":"4053098",
+                "cveModalidad":"6",
+                "cveComision":"4",
+                "cveConcurso":"1",
+                "cveClasificacionDelitoOrden":"1",
+                "cveElementoComision":"3",
+                "cveClasificacionDelito":"2",
+                "cveFormaAccion":"4",
+                "cveConsumacion":"4",
+                "cveMunicipio":"125",
+                "cveEntidad":"1",
+                "cveGradoParticipacion":"4",
+                "cveRelacionImpOfe":"3",
+                "cveTerminacion":"1",
+                "activo":"S",
+                "fechaDelito":"2020-02-12 00:00:00",
+                "direccion":"Calle",
+                "colonia":"Guadalupe de Atlas",
+                "numInterior":null,
+                "numExterior":null,
+                "cp":"20720",
+                "fechaRegistro":"2020-03-02 13:26:57",
+                "fechaActualizacion":"2020-03-02 13:26:57",
+                "descripcionHechos":"",
+                "violenciadegenero":[
+
+                ],
+                "trataspersonas":[
+                    {
+                        "idTrataPersona":"3880",
+                        "cveEstadoDestino":"3",
+                        "cveMunicipioDestino":"142",
+                        "cvePaisDestino":"119",
+                        "estadoDestino":"",
+                        "municipioDestino":"",
+                        "cveEstadoOrigen":"2",
+                        "cveMunicipioOrigen":"136",
+                        "cvePaisOrigen":"119",
+                        "estadoOrigen":"",
+                        "municipioOrigen":"",
+                        "cveTipoTrata":"1",
+                        "cveTrasportacion":"2",
+                        "idImpOfeDelSolicitud":"3645853",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57"
+                    }
+                ],
+                "sexuales":[
+                    {
+                        "idSexual":"79220",
+                        "cveModalidadAcoso":"2",
+                        "cveAmbitoAcoso":"1",
+                        "idImpOfeDelSolicitud":"3645853",
+                        "activo":"S",
+                        "fechaRegistro":"2020-03-02 13:26:57",
+                        "fechaActualizacion":"2020-03-02 13:26:57",
+                        "sexualesconductas":[
+                            {
+                                "idSexualConducta":"79037",
+                                "idSexual":"79220",
+                                "cveConducta":"3",
+                                "activo":"S",
+                                "fechaRegistro":"2020-03-02 13:26:57",
+                                "fechaActualizacion":"2020-03-02 13:26:57"
+                            }
+                        ],
+                        "testigossexuales":[
+                            {
+                                "idTestigoSexual":"78919",
+                                "idSexual":"79220",
+                                "paterno":"BBBB",
+                                "materno":"VCCC",
+                                "nombre":"UUUU",
+                                "cveGenero":"2",
+                                "activo":"S",
+                                "fechaRegistro":"2020-03-02 13:26:57",
+                                "fechaActualizacion":"2020-03-02 13:26:57"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
